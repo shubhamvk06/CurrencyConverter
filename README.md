@@ -34,6 +34,15 @@ F) Run the currencyToTextTest.java as JUnit Test file to see the result of test 
 
 
 
+
+
+
+
+
+
+
+
+
 2) If Running on CMD	
 
 
