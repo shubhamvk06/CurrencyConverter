@@ -1,5 +1,9 @@
 # CurrencyConverter
 
+Instructions to run Project
+
+
+
 There are 2 files in the in the project 
 1) currencyToText.java - Main java code for the assignment
 2) currencyToTextTest.java - Test cases java file for running the test cases
