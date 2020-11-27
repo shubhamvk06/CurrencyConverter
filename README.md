@@ -5,18 +5,23 @@ There are 2 files in the in the project
 2) currencyToTextTest.java - Test cases java file for running the test cases
 
 
-Download the required jars from the given links
-	https://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.jar
-	https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+
 
 
 1) If Running in Eclipse (Recommended)
 
 A) Import this project as Import Git Project. open project in eclipse. you can open in vs code also but eclipse recommended here.
 
-B) Add all  the reqired jars in the project. 	
-	Right click on the project name > Build Path > Configure Build Path > Libraries > Add External Jars
-		and select the 2 jar files provided with the project
+B) Add all  the reqired jars in the project.
+
+
+Download the required jars from the given links
+	https://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.jar
+	https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+	
+	
+Right click on the project name > Build Path > Configure Build Path > Libraries > Add External Jars
+and select the 2 jar files provided with the project
 
 
 C) Run currencyToText.java file and give desired input ( -1 < input < 1000000 )
